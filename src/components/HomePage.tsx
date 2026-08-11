@@ -63,9 +63,9 @@ const HomePage: React.FC<HomePageProps> = ({ onStart }) => {
               <Heart className="h-10 w-10 text-white" />
             </div>
             <h2 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6">
-              Your Mental Health
+              Your Mental Health Prediction System
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-emerald-600">
-                AI Companion
+               using AI 
               </span>
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
